@@ -35,7 +35,7 @@ a{
 }
 
 .dropdown-menu{
-	background-color:#2b2b2b;
+	background-color:#FFFFFF;
 	border:0;
 }
 .dropdown-menu .dropdown-item{
@@ -53,7 +53,7 @@ a{
 
 .navbar-light .navbar-toggler{
 	background-color: transparent;
-	border:1px solid #000;
+	border:1px solid #fff;
 }
 .navbar-light .navbar-toggler:hover,
 .navbar-light .navbar-toggler:focus
@@ -63,14 +63,17 @@ a{
 }
 .navbar-light .navbar-toggler-icon {
     background-color: transparent;
+	
 }
 
+
+
 .navbar-light .navbar-toggle:hover .icon-bar {
-    background-color: #8B2588;
+    background-color: #FFFFFF;
 	cursor:pointer;
 }
 .navbar-light .navbar-brand {
-	color:#363636;		
+	color:#FFFFFF;		
 	height: auto;
 }
 .navbar-light .navbar-brand:hover {

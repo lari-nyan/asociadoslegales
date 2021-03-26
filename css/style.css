@@ -117,6 +117,8 @@ i{
 }
 
 
+
+
 footer{
 	background: #131313;
 	padding: 20px 0;
@@ -190,6 +192,21 @@ footer{
 }
 
 .text{
+	text-align: center;
+	font-size: 35px;
+	font-weight: 700;
+	
+}
+
+.text span{
+	font-size: 35px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 40px;
+	color: var(--color-titulos);
+}
+
+.historia {
 	text-align: center;
 }
 
