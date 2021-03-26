@@ -92,6 +92,11 @@ i{
 	
 }
 
+.acerca{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
 #acerca{
 	background-color: #161414;
 	color: #fff;
@@ -215,10 +220,24 @@ footer{
 	text-align: center;
 	font-size: 40px;
 	font-weight: 600;
+	margin-top: 30px;
 	margin-bottom: 30px;
 	
 }
 
+.acerca{
+	margin-bottom: 20px;
+}
+
+.form-group{
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.formulario{
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
 
 #contact i{
 	font-size: 40px;
